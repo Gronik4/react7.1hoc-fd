@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/Gronik4/react7.1hoc-fd",
+  "homepage": "https://gronik4.github.io/react7.1hoc-fd/",
   "eslintConfig": {
     "extends": [
       "react-app",
